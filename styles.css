@@ -1,0 +1,190 @@
+.nav-bar
+{
+  background-color: #66BFBF;
+  padding: 20px 0 50px;
+  margin: 0;
+}
+ul
+{
+  width: auto;
+  float: right;
+  margin-top:8px;
+}
+
+li
+{
+  display:inline-block;
+  padding: 15px 30px;
+}
+
+.nav:hover
+{
+  color:white;
+  transition:0.5s;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+  font-size: 1.4em;
+  background-color: #EAF6F6;
+  color: #40514E;
+}
+
+.mountain {
+  width: 45%
+}
+
+.main-img {
+  width: 10%;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border-color: #CDCDCD;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #EAf6f6;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 7rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Cormorant Garamond', serif;
+  color: #11999E;
+  font-size: 1.9rem;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+  transition:0.5s;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.middle-container {
+  align-items: center;
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 250px;
+  top: 120px;
+  width: 15%;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 250px;
+  bottom: 500px;
+  width: 15%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.gamer-img {
+  width: 25%;
+  float: right;
+  margin-left: 25px;
+}
+
+.writer-img
+{
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Cormorant Garamond', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cd;
+  background-image: -webkit-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cd, #2bc4ad);
+  text-decoration: none;
+}
+
+.end {
+  text-align: center;
+  color: #EAF6F6;
+  font-size: 0.75em;
+  padding: 20px 0;
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+/*
+Link to website: https://maqboolsaiyed.github.io/Website2/
+*/
